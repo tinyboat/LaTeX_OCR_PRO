@@ -14,5 +14,6 @@ data/full/
 │   ├── test.matching.txt
 │   └── val.matching.txt
 ├── data.json
+├── vocab.json
 └── README.md
 ```
